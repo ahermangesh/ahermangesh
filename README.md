@@ -3,20 +3,6 @@
 I'm a developer who loves to build and experiment. My passion lies in creating intelligent, automated systems, but I'm just as comfortable architecting a robust backend or building a pixel-perfect frontend. I enjoy the full journey of turning a complex problem into a smart, efficient, and user-friendly application.
 
 ---
-
-### 💡 Featured Projects
-
-Here's a glimpse into my work, spanning from complex AI agents to professional web development.
-
-| Project | Description | Key Tech |
-|---|---|---|
-| **[BOSS](https://github.com/ahermangesh/BOSS)** | An AI browser agent that automates web tasks using LLMs and a ReAct reasoning framework. | `Python`, `FastAPI`, `Playwright`, `Next.js` |
-| **[FraudGuard](https://github.com/sammyifelse/hackth)** | An enterprise-grade system that uses ML and Gemini AI to not just detect fraud, but *explain why* it's suspicious. | `Python`, `Scikit-learn`, `Flask`, `Gemini AI` |
-| **[FloatChat (sih)](https://github.com/ahermangesh/sih)** | A conversational AI built to explore a 10GB oceanographic dataset using natural language (English/Hindi) and a RAG pipeline. | `Python`, `Gemini AI`, `RAG`, `FastAPI`, `PostgreSQL` |
-| **[Client E-commerce & Agency Work](https://github.com/ahermangesh/tattmedaddy-theme)** | I've also delivered professional web solutions, including a custom Shopify theme for an e-commerce client (`tattmedaddy`) and a modern agency website (`adley-v2`). | `Liquid`, `TypeScript`, `CSS`, `JavaScript` |
-
----
-
 ### 🛠️ My Toolkit
 
 Here are the primary technologies I've worked with across my projects:
@@ -56,6 +42,19 @@ Here are the primary technologies I've worked with across my projects:
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+### 💡 Featured Projects
+
+Here's a glimpse into my work, spanning from complex AI agents to professional web development.
+
+| Project | Description | Key Tech |
+|---|---|---|
+| **[BOSS](https://github.com/ahermangesh/BOSS)** | An AI browser agent that automates web tasks using LLMs and a ReAct reasoning framework. | `Python`, `FastAPI`, `Playwright`, `Next.js` |
+| **[FraudGuard](https://github.com/sammyifelse/hackth)** | An enterprise-grade system that uses ML and Gemini AI to not just detect fraud, but *explain why* it's suspicious. | `Python`, `Scikit-learn`, `Flask`, `Gemini AI` |
+| **[FloatChat (sih)](https://github.com/ahermangesh/sih)** | A conversational AI built to explore a 10GB oceanographic dataset using natural language (English/Hindi) and a RAG pipeline. | `Python`, `Gemini AI`, `RAG`, `FastAPI`, `PostgreSQL` |
+| **[Client E-commerce & Agency Work](https://github.com/ahermangesh/tattmedaddy-theme)** | I've also delivered professional web solutions, including a custom Shopify theme for an e-commerce client (`tattmedaddy`) and a modern agency website (`adley-v2`). | `Liquid`, `TypeScript`, `CSS`, `JavaScript` |
 
 ---
 
