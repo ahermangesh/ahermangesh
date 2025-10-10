@@ -57,18 +57,22 @@ Here's a glimpse into my work, spanning from complex AI agents to professional w
 | **[Client E-commerce & Agency Work](https://github.com/ahermangesh/tattmedaddy-theme)** | I've also delivered professional web solutions, including a custom Shopify theme for an e-commerce client (`tattmedaddy`) and a modern agency website (`adley-v2`). | `Liquid`, `TypeScript`, `CSS`, `JavaScript` |
 
 ---
-
 ### 📊 My GitHub Activity
 
 <p align="center">
   <a href="https://github.com/ahermangesh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahermangesh&show_icons=true&theme=dracula&hide_border=true&count_private=true&ring_color=0891b2" alt="Mangesh's GitHub Stats" />
+    <!-- Hides the rank and less relevant stats like stars, issues -->
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahermangesh&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_rank=true&hide=stars,issues" alt="Mangesh's GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahermangesh&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/ahermangesh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahermangesh&layout=compact&theme=dracula&hide_border=true&langs_count=6&card_width=320" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahermangesh&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
+---
 ---
 
 ### 📫 Let's Connect
